@@ -14,6 +14,8 @@
 
     ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=vavadiyasanket&show_icons=true&theme=tokyonight)
     [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vavadiyasanket&exclude_repo=vavadiyasanket,vavavdiyasanket.github.io&langs_count=10&layout=compact&theme=tokyonigh](https://github.com/vavadiyasanket/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
