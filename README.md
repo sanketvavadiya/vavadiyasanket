@@ -8,7 +8,7 @@
 <br />
 
 ### Stats
-[![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/vavadiyasanket/github-readme-stats)
+[![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=vavadiyasanket)](https://github.com/vavadiyasanket/github-readme-stats)
 
 
 ### Languages and Tools:
