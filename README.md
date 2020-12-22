@@ -5,16 +5,18 @@
 [<img align="left" alt="Sanket | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Sanket | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sanket | Mail-to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+<br/>
 
 ---
 
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-    </a>
+## Stats
 
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
-    </a>
+<img alt="Sanket's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vavadiyasanket&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+
+<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavadiyasanket&exclude_repo=vavadiyasanket,vavavdiyasanket.github.io&langs_count=10&layout=compact&theme=tokyonight"/>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 ---
 
