@@ -1,4 +1,4 @@
-### Hi there, I'm Sanket - [Portfolio][portfolio]
+### Hi there, I'm [Sanket][portfolio]
 
 ---
 ### Feel free to contact me:
@@ -10,7 +10,6 @@
 ---
 ### Stats
   <img alt="Sanket's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vavadiyasanket&show_icons=true&hide_border=true&theme=dark"/>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <br/>
