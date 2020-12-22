@@ -4,7 +4,7 @@
 ### Feel free to contact me:
 [<img align="left" alt="Sanket | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="Sanket | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sanket | Mail-to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][email]
+[<img align="left" alt="Sanket | Mail-to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 <br />
 
 ---
@@ -35,7 +35,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 
 [portfolio]: https://vavadiyasanket.github.io/
-[gihub]: https://github.com/vavadiyasanket
+[github]: https://github.com/vavadiyasanket
 [email]: mailto:vavadiyasanket249@gmail.com
 [linkedin]: http://linkedin.com/in/vavadiya-sanket
 [compiler-design]: https://github.com/vavadiyasanket/Compiler-Design
