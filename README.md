@@ -6,11 +6,7 @@
 [<img align="left" alt="Sanket | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sanket | Mail-to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-<br />
-
 ---
-
-## Stats
 
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
