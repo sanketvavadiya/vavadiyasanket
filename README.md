@@ -16,6 +16,8 @@
 
     <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavadiyasanket&exclude_repo=vavadiyasanket,vavavdiyasanket.github.io&langs_count=10&layout=compact&theme=tokyonight"/>
 
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
 ---
 
 ## Languages and Tools
