@@ -12,8 +12,9 @@
 
 ## Stats
 
-    [<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vavadiyasanket&show_icons=true&theme=tokyonight">]
-    [<img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavadiyasanket&exclude_repo=vavadiyasanket,vavavdiyasanket.github.io&langs_count=10&layout=compact&theme=tokyonight">]
+    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=vavadiyasanket&show_icons=true&theme=tokyonight"/>
+
+    <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavadiyasanket&exclude_repo=vavadiyasanket,vavavdiyasanket.github.io&langs_count=10&layout=compact&theme=tokyonight"/>
 
 ---
 
