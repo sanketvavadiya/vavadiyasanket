@@ -1,22 +1,28 @@
 # Hi there, I'm [Sanket][portfolio]
 
 ---
-### Feel free to contact me:
+
+## Feel free to contact me
+
 [<img align="left" alt="Sanket | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Sanket | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sanket | Mail-to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
 <br />
 
 ---
+
 ### Stats
-    <img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api?username=vavadiyasanket&show_icons=true&theme=tokyonight">
-<br/>
-    <img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavadiyasanket&exclude_repo=vavadiyasanket,vavavdiyasanket.github.io&langs_count=10&layout=compact&theme=tokyonight">
+
+    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=vavadiyasanket&show_icons=true&theme=tokyonight">
+    <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavadiyasanket&exclude_repo=vavadiyasanket,vavavdiyasanket.github.io&langs_count=10&layout=compact&theme=tokyonight">
 
 <br/>
 
 ---
-### Languages and Tools:
+
+### Languages and Tools
+
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][compiler-design]
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][data-structures-and-algorithms]
